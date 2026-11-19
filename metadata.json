@@ -1,0 +1,6 @@
+{
+  "name": "SlotKart",
+  "description": "Smart Delivery Slot E-Commerce Platform built with MERN stack and Python FastAPI Slot Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
